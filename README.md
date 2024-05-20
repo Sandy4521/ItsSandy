@@ -2,6 +2,11 @@
 <h3 align="center">Full-Stack developer</h3>
 
 - 📫 How to reach me **sandorperez545@gmail.com**
+- const Sandy = {
+  pronouns: "He" | "Him",
+  code: [PHP, JavaScript, HTML5, CSS3],
+  tools: [React, Node, Styled-Components, Docker],
+}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
